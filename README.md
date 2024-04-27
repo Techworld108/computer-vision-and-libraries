@@ -33,3 +33,59 @@ Semantic Segmentation: Assigning specific labels to each pixel in an image to id
 ## 🚀Relationship Between the Two:
 
 Image processing techniques are often foundational to computer vision tasks. Before higher-level analysis or understanding can occur, images may need to undergo preprocessing steps (like noise reduction or normalization) using image processing techniques. Once images are processed, computer vision algorithms can then operate on the resulting data to extract more complex information.
+
+# Evolution
+Image Segmentation
+
+Edge Detection
+
+Watermarking
+
+Steganography
+
+Cryptography
+
+Moving object Detection
+
+Object recognition
+
+Autonomous Vehicle 
+
+Satellite image analysis
+
+Medical image analysis
+
+OCR (Optical character recognition)
+
+# Applications
+Object recognition
+
+Face recognition
+
+Autonomous vehicle
+
+Disease detection
+
+Emotion recognition
+
+Agriculture
+
+Satellite image analysis
+
+Robot vision
+
+Search engines
+
+Mobile & camera
+
+Pattern recognition
+
+
+
+
+
+
+
+
+
+
