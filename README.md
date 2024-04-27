@@ -8,7 +8,7 @@ Computer vision is an interdisciplinary scientific field that deals with how com
 
 The goal of image processing is often to improve the visual appearance of images or to extract some specific information from them. Examples of image processing tasks include resizing, cropping, sharpening, color correction, and feature extraction.
 
-###💡Key techniques used in image processing include:
+💡 Key techniques used in image processing include:
 
 Filters and Transformations: Applying mathematical operations like convolution to alter images, such as blurring or sharpening.
 
@@ -20,7 +20,7 @@ Color Processing: Adjusting color balance, contrast, or brightness of images.
 
 🚀Computer vision, on the other hand, is a broader field that focuses on enabling computers to interpret and understand digital images and videos. It goes beyond basic image processing tasks to extract meaningful information from visual data. Computer vision aims to replicate human vision capabilities using machines. This involves tasks such as object detection, recognition, tracking, scene reconstruction, and image understanding.
 
-###💡Key techniques used in computer vision include:
+# 💡Key techniques used in computer vision include:
 
 Object Detection and Recognition: Identifying objects within images or video streams.
 
